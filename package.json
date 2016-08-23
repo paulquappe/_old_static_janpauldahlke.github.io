@@ -1,0 +1,22 @@
+{
+  "name": "minigolf",
+  "version": "0.0.1",
+  "description": "link2party",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janpauldahlke/minigolf.git"
+  },
+  "author": "jdahlke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janpauldahlke/minigolf/issues"
+  },
+  "homepage": "https://github.com/janpauldahlke/minigolf#readme",
+  "devDependencies": {
+   
+  }
+}

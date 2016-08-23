@@ -1,0 +1,74 @@
+body{
+    background: black;
+}
+
+.golf-kid{
+    position: relative;
+}
+
+.golf-kid img{
+    height: 100%;
+    width:100%;
+}
+
+.main{
+    width:800px;
+    height: 100%;
+    margin:0 auto;
+}
+
+div{
+    color:white;
+}
+p{
+    color: white;
+    font-size: 14px;
+}
+
+p a{
+    text-decoration: none;
+    color:white;
+    font-size: 14px;
+}
+p:hover{
+ /* fancy pls*/
+}
+.non-active{
+    display: none;
+    opacity: 0.0;
+}
+
+.cta{
+    position: relative;
+    width: 400px;
+    background: green;
+    text-align: center;
+    line-height: 24px;
+    }
+
+.eckdaten{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+@media(max-device-width: 768px){
+
+    p{
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .golf-kid{
+        position: relative;
+        top:50px;
+    }
+
+    .cta{
+        padding: 10px 0;
+      font-size:16px;
+      top:20px;
+      left: 50px;
+  }
+}
+
+
