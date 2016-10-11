@@ -79,7 +79,7 @@ var decode = function deobfuscateText(){
 }
 
 var credit = function credit(){
-  $('body').append('<div style="position:fixed;top:0;right:0;background:yellow;line-height:20px;font-size:18px;">knowledge is power. information is free! made by paulq</div>');
+  $('body').append('<div style="position:fixed;top:0;right:0;background:yellow;line-height:20px;font-size:18px;">Scientia potentia est. by paulq</div>');
 } 
 
 
